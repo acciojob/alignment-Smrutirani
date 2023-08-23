@@ -15,7 +15,7 @@ table{
 	width:100%;
 /* 	height:100px; */
 }
-.center{
+td:not(#t11,#t12, #t13, .right){
 	text-align:center;
 }
 .right{
